@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
-  <alphabet><alphabet/>
+  <alphabet></alphabet>
   <sdefs>
-    <sdef n="n">
-	<sdef n="np">
-    <sdef n="adj">
-    <sdef n="adv">
-    <sdef n="vblex">
+    <sdef n="n"/>
+    <sdef n="np"/>
+    <sdef n="adj"/>
+    <sdef n="adv"/>
+    <sdef n="vblex"/>
   </sdefs>
 
   <section id="main" type="standard">
@@ -26,7 +26,7 @@
 <e><p><l>абсолютен<s n="adj"/></l><r>absoluta<s n="adj"/></r></p></e>
 <e><p><l>абсолютизъм<s n="n"/></l><r>absolutismo<s n="n"/></r></p></e>
 <e><p><l>абстрактен<s n="adj"/></l><r>abstrakta<s n="adj"/></r></p></e>
-<e><p><l>абстрахирам<s n="vblex"/></l><r>abstrakti
+<e><p><l>абстрахирам<s n="vblex"/></l><r>abstrakti<s n="vblex"/></r></p></e>
 <e><p><l>абсурден<s n="adj"/></l><r>absurda<s n="adj"/></r></p></e>
 <e><p><l>Аварски хаганат<s n="np"/></l><r>Avaresa hanujo<s n="np"/></r></p></e>
 <e><p><l>аватар<s n="n"/></l><r>avataro<s n="n"/></r></p></e>
@@ -101,7 +101,7 @@
 <e><p><l>Антарктика<s n="np"/></l><r>Antarkto<s n="np"/></r></p></e>
 <e><p><l>антарктичен<s n="n"/></l><r>antarkta<s n="n"/></r></p></e>
 <e><p><l>Антигуа<s n="np"/></l><r>Antigvo<s n="np"/></r></p></e>
-<e><p><l>Антигуа и Барбуда<s n="np"/></l><r>Antigvo kaj Barbudo
+<e><p><l>Антигуа и Барбуда<s n="np"/></l><r>Antigvo kaj Barbudo<s n="np"/></r></p></e>
 <e><p><l>антилопа<s n="n"/></l><r>antilopo<s n="n"/></r></p></e>
 <e><p><l>антитяло<s n="n"/></l><r>antikorp<s n="n"/></r></p></e>
 <e><p><l>антропология<s n="n"/></l><r>antropologio<s n="n"/></r></p></e>
@@ -150,7 +150,7 @@
 <e><p><l>багаж<s n="n"/></l><r>bagago<s n="n"/></r></p></e>
 <e><p><l>Багдад<s n="np"/></l><r>Bagdado<s n="np"/></r></p></e>
 <e><p><l>бадем<s n="n"/></l><r>migdalo<s n="n"/></r></p></e>
-<e><p><l>Баден-ВюртембергBaden<s n="np/></l><r>Virtembergo<s n="np"/></r></p></e>
+<e><p><l>Баден-ВюртембергBaden<s n="np"/></l><r>Virtembergo<s n="np"/></r></p></e>
 <e><p><l>бадминтон<s n="n"/></l><r>badmintono<s n="n"/></r></p></e>
 <e><p><l>базалт<s n="n"/></l><r>bazalto<s n="n"/></r></p></e>
 <e><p><l>базука<s n="n"/></l><r>bazuko<s n="n"/></r></p></e>
@@ -217,7 +217,7 @@
 <e><p><l>битум<s n="n"/></l><r>bitumo<s n="n"/></r></p></e>
 <e><p><l>благодаря<s n="vblex"/></l><r>danki<s n="vblex"/></r></p></e>
 <e><p><l>благославям<s n="adj"/></l><r>beni<s n="adj"/></r></p></e>
-<e><p><l>балгословия<s<s n="vblex"/></l><r> n="n"/></l><r>beno
+<e><p><l>балгословия<s n="vblex"/></l><r>beno<s n="n"/></r></p></e>
 <e><p><l>блог<s n="n"/></l><r>blogo<s n="n"/></r></p></e>
 <e><p><l>блондинка<s n="n"/></l><r>blondulino<s n="n"/></r></p></e>
 <e><p><l>блус<s n="n"/></l><r>bluso<s n="n"/></r></p></e>
@@ -319,7 +319,7 @@
 <e><p><l>ведро<s n="n"/></l><r>sitelo<s n="n"/></r></p></e>
 <e><p><l>велик<s n="adj"/></l><r>granda<s n="adj"/></r></p></e>
 <e><p><l>Великден<s n="np"/></l><r>Pasko<s n="np"/></r></p></e>
-<e><p><l>седмицата преди Великден<s n="np"/></l><r>Paska semajno
+<e><p><l>седмицата преди Великден<s n="np"/></l><r>Paska semajno<s n="np"/></r></p></e>
 <e><p><l>великите пости<s n="n"/></l><r>Karesmo<s n="n"/></r></p></e>
 <e><p><l>Великобритания<s n="np"/></l><r>Britio<s n="np"/></r></p></e>
 <e><p><l>велосипед<s n="n"/></l><r>biciklo<s n="n"/></r></p></e>
@@ -329,7 +329,7 @@
 <e><p><l>верен<s n="adj"/></l><r>fidelulo<s n="adj"/></r></p></e>
 <e><p><l>верен човек<s n="n"/></l><r><s n="n"/></r></p></e>
 <e><p><l>верига<s n="n"/></l><r>ceno<s n="n"/></r></p></e>
-<e><p><l>Весела Коледа<s n="np"/></l><r>Gajan kristnaskon
+<e><p><l>Весела Коледа<s n="np"/></l><r>Gajan kristnaskon<s n="np"/></r></p></e>
 <e><p><l>вестгот<s n="n"/></l><r>visigoto<s n="n"/></r></p></e>
 <e><p><l>вестготически<s n="adj"/></l><r>visigota<s n="adj"/></r></p></e>
 <e><p><l>вестник<s n="n"/></l><r>gazeto<s n="n"/></r></p></e>
@@ -432,7 +432,7 @@
 <e><p><l>гнездо<s n="n"/></l><r>nesto<s n="n"/></r></p></e>
 <e><p><l>гнида<s n="n"/></l><r>pedikovo<s n="n"/></r></p></e>
 <e><p><l>гну<s n="n"/></l><r>gnuo<s n="n"/></r></p></e>
-<e><p><l>говоря по телефона<s n="vblex"/></l><r>telefoni
+<e><p><l>говоря по телефона<s n="vblex"/></l><r>telefoni<s n="vblex"/></r></p></e>
 <e><p><l>година<s n="n"/></l><r>jaro<s n="n"/></r></p></e>
 <e><p><l>гол<s n="adj"/></l><r>nuda<s n="adj"/></r></p></e>
 <e><p><l>големина<s n="n"/></l><r>grando<s n="n"/></r></p></e>
@@ -590,7 +590,7 @@
 <e><p><l>дънки<s n="n"/></l><r>ginzo, jinzo<s n="n"/></r></p></e>
 <e><p><l>дървени въглища<s n="n"/></l><r>lignokarbo<s n="n"/></r></p></e>
 <e><p><l>дърво<s n="n"/></l><r>arbo, ligno<s n="n"/></r></p></e>
-<e><p><l>дърводелец мебелист<s n="n"/></l><r>lignajisto<s n="n"/></r></p></e><s n="n"/></r></p></e>
+<e><p><l>дърводелец мебелист<s n="n"/></l><r>lignajisto<s n="n"/></r></p></e>
 <e><p><l>дъска<s n="n"/></l><r>tabulo<s n="n"/></r></p></e>
 <e><p><l>дюля<s n="n"/></l><r>cidonio<s n="n"/></r></p></e>
 <e><p><l>дюна<s n="n"/></l><r>duno<s n="n"/></r></p></e>
@@ -620,7 +620,7 @@
 <e><p><l>малко езеро<s n="n"/></l><r>lageto<s n="n"/></r></p></e>
 <e><p><l>език(анатомия)<s n="n"/></l><r>lango<s n="n"/></r></p></e>
 <e><p><l>Еквадор<s n="np"/></l><r>Ekvadoro<s n="np"/></r></p></e>
-<e><p><l>Екваториална Гвинея<s n="np"/></l><r>Ekvatora Gvineo
+<e><p><l>Екваториална Гвинея<s n="np"/></l><r>Ekvatora Gvineo<s n="np"/></r></p></e>
 <e><p><l>екзорсист<s n="n"/></l><r>ekzorci<s n="n"/></r></p></e>
 <e><p><l>ескскурзия<s n="n"/></l><r>ekskurso<s n="n"/></r></p></e>
 <e><p><l>експерт<s n="n"/></l><r>eksperto<s n="n"/></r></p></e>
@@ -786,7 +786,7 @@
 <e><p><l>индианец<s n="n"/></l><r>indiano<s n="n"/></r></p></e>
 <e><p><l>Индия<s n="np"/></l><r>Barato, Hindio<s n="np"/></r></p></e>
 <e><p><l>Индонезия<s n="np"/></l><r>Indonezio<s n="np"/></r></p></e>
-<e><p><l>Индустриална революция<s n="np"/></l><r>industria revolucio
+<e><p><l>Индустриална революция<s n="np"/></l><r>industria revolucio<s n="np"/></r></p></e>
 <e><p><l>индустрия<s n="n"/></l><r>industrio<s n="n"/></r></p></e>
 <e><p><l>Инокентий<s n="np"/></l><r>Inocento<s n="np"/></r></p></e>
 <e><p><l>интуитивен<s n="adj"/></l><r>intuicia<s n="adj"/></r></p></e>
@@ -838,7 +838,7 @@
 <e><p><l>лебед<s n="n"/></l><r>cigno<s n="n"/></r></p></e>
 <e><p><l>лебедка<s n="n"/></l><r>vinco<s n="n"/></r></p></e>
 <e><p><l>лев<s n="n"/></l><r>levo<s n="n"/></r></p></e>
-<e><p><l>левкоцит<s n="n"/></l><r>blanka sangocelo, leu<s n="n"/></r></p></e>kocito
+<e><p><l>левкоцит<s n="n"/></l><r>blanka sangocelo, leukocito<s n="n"/></r></p></e>
 <e><p><l>легло<s n="n"/></l><r>lito<s n="n"/></r></p></e>
 <e><p><l>лед<s n="n"/></l><r>lacio<s n="n"/></r></p></e>
 <e><p><l>ледник<s n="n"/></l><r>glaciaro, glaciejo<s n="n"/></r></p></e>
@@ -910,13 +910,13 @@
 <e><p><l>направлявам<s n="n"/></l><r>gvidi<s n="n"/></r></p></e>
 <e><p><l>насип<s n="n"/></l><r>digo<s n="n"/></r></p></e>
 <e><p><l>настроение<s n="n"/></l><r>humoro<s n="n"/></r></p></e>
-<e><p><l>НАТО<s n="np"/></l><r>Nord-Atlantika Traktat-Organizajo
+<e><p><l>НАТО<s n="np"/></l><r>Nord-Atlantika Traktat-Organizajo<s n="np"/></r></p></e>
 <e><p><l>Науру<s n="np"/></l><r>Nauro<s n="np"/></r></p></e>
 <e><p><l>нафтол<s n="n"/></l><r>naftolo<s n="n"/></r></p></e>
 <e><p><l>нация<s n="n"/></l><r>nacio<s n="n"/></r></p></e>
 <e><p><l>не<s n="n"/></l><r>ne<s n="n"/></r></p></e>
 <e><p><l>небе<s n="n"/></l><r>cielo<s n="n"/></r></p></e>
-<e><p><l>под открито небе<s n="adv"/></l><r>sub libera cielo
+<e><p><l>под открито небе<s n="adv"/></l><r>sub libera cielo<s n="adv"/></r></p></e>
 <e><p><l>невроза<s n="n"/></l><r>neurozo<s n="n"/></r></p></e>
 <e><p><l>неврон<s n="n"/></l><r>nervocelo, neurono<s n="n"/></r></p></e>
 <e><p><l>неделя<s n="n"/></l><r>dimanco<s n="n"/></r></p></e>
@@ -1128,7 +1128,7 @@
 <e><p><l>табла<s n="n"/></l><r>triktrako<s n="n"/></r></p></e>
 <e><p><l>таблетка<s n="n"/></l><r>pilolo<s n="n"/></r></p></e>
 <e><p><l>Таджик<s n="np"/></l><r>Takigo<s n="np"/></r></p></e>
-<e><p><l>Таджикистан<s n="np"/></l><r>Tagikio,Tagikujo
+<e><p><l>Таджикистан<s n="np"/></l><r>Tagikio,Tagikujo<s n="np"/></r></p></e>
 <e><p><l>Тайван<s n="np"/></l><r>Tajvano<s n="np"/></r></p></e>
 <e><p><l>Тайланд<s n="np"/></l><r>Tajlando<s n="np"/></r></p></e>
 <e><p><l>Талес<s n="np"/></l><r>Taleso<s n="np"/></r></p></e>
@@ -1158,10 +1158,10 @@
 <e><p><l>телефонен секретар<s n="n"/></l><r>respodilo,respondaparato<s n="n"/></r></p></e>
 <e><p><l>телефонирам<s n="vblex"/></l><r>telefoni<s n="vblex"/></r></p></e>
 <e><p><l>телефонна кабина<s n="n"/></l><r>stattelefono,telefonbudo<s n="n"/></r></p></e>
-<e><p><l>тема<s n="n"/></l><r>temo<s n="n"/></r></p></e><s n="adj"/></r></p></e>
+<e><p><l>тема<s n="n"/></l><r>temo<s n="n"/></r></p></e>
 <e><p><l>температура<s n="n"/></l><r>tempraturo<s n="n"/></r></p></e>
 <e><p><l>тенденциозен<s n="adj"/></l><r>tendenca<s n="adj"/></r></p></e>
-<e><p><l>тенденция<s n="n"/></l><r>tendenco<s n="n"/></r></p></e><s n="n"/></r></p></e>
+<e><p><l>тенденция<s n="n"/></l><r>tendenco<s n="n"/></r></p></e>
 <e><p><l>тенджера<s n="n"/></l><r>poto<s n="n"/></r></p></e>
 <e><p><l>тенекия<s n="n"/></l><r>lado<s n="n"/></r></p></e>
 <e><p><l>тензух<s n="n"/></l><r>gazo<s n="n"/></r></p></e>
@@ -1182,12 +1182,12 @@
 <e><p><l>техника<s n="n"/></l><r>tekniko<s n="n"/></r></p></e>
 <e><p><l>технически<s n="adj"/></l><r>teknika<s n="adj"/></r></p></e>
 <e><p><l>течение<s n="n"/></l><r>fluo<s n="n"/></r></p></e>
-<e><p><l>то<s n="n"/></l><r>vi<s n="n"/></r></p></e><s n="adj"/></r></p></e>
+<e><p><l>то<s n="n"/></l><r>vi<s n="n"/></r></p></e>
 <e><p><l>Тиберий<s n="np"/></l><r>Tiberio<s n="np"/></r></p></e>
 <e><p><l>тиган<s n="n"/></l><r>pato<s n="n"/></r></p></e>
 <e><p><l>тигър<s n="n"/></l><r>tigro<s n="n"/></r></p></e>
 <e><p><l>Тигър<s n="np"/></l><r>Tigriso<s n="np"/></r></p></e>
-<e><p><l>тиквичка<s n="n"/></l><r>kukuberto,itala kukurbo,<s n="n"/></r></p></e>italia kukubro
+<e><p><l>тиквичка<s n="n"/></l><r>kukuberto,itala kukurbo, italia kukubro<s n="n"/></r></p></e>
 <e><p><l>тилда<s n="n"/></l><r>tildo<s n="n"/></r></p></e>
 <e><p><l>Тимор<s n="np"/></l><r>Timoro<s n="np"/></r></p></e>
 <e><p><l>тимпан<s n="n"/></l><r>timbalo<s n="n"/></r></p></e>
@@ -1229,7 +1229,7 @@
 <e><p><l>тризъбец<s n="n"/></l><r>tridento<s n="n"/></r></p></e>
 <e><p><l>трилер<s n="n"/></l><r>trilo<s n="n"/></r></p></e>
 <e><p><l>Тринидад<s n="np"/></l><r>Trinidado<s n="np"/></r></p></e>
-<e><p><l>Тринидад и Тобаго<s n="np"/></l><r>Trinidado kaj Tobado
+<e><p><l>Тринидад и Тобаго<s n="np"/></l><r>Trinidado kaj Tobado<s n="np"/></r></p></e>
 <e><p><l>трион<s n="n"/></l><r>segilo<s n="n"/></r></p></e>
 <e><p><l>трол<s n="n"/></l><r>trolo<s n="n"/></r></p></e>
 <e><p><l>тролейбус<s n="n"/></l><r>trolebuso<s n="n"/></r></p></e>
@@ -1240,7 +1240,7 @@
 <e><p><l>Тувалу<s n="np"/></l><r>Tuvalo<s n="np"/></r></p></e>
 <e><p><l>Тундра<s n="np"/></l><r>tundro<s n="np"/></r></p></e>
 <e><p><l>Тунис<s n="np"/></l><r>Tunizio<s n="np"/></r></p></e>
-<e><p><l>Туркменистан<s n="np"/></l><r>Turkmenio,Turkmenujo
+<e><p><l>Туркменистан<s n="np"/></l><r>Turkmenio,Turkmenujo<s n="np"/></r></p></e>
 <e><p><l>турски<s n="adj"/></l><r>turka<s n="adj"/></r></p></e>
 <e><p><l>Турция<s n="np"/></l><r>Turkio,Turkujo<s n="np"/></r></p></e>
 <e><p><l>турчин<s n="n"/></l><r>turko<s n="n"/></r></p></e>
@@ -1324,7 +1324,7 @@
 <e><p><l>Франция<s n="np"/></l><r>Francujo<s n="np"/></r></p></e>
 <e><p><l>французин<s n="n"/></l><r>franco<s n="n"/></r></p></e>
 <e><p><l>фреквентност<s n="n"/></l><r>frekvenco<s n="n"/></r></p></e>
-<e><p><l>Френска Гвиана<s n="np"/></l><r>Franca Gujano
+<e><p><l>Френска Гвиана<s n="np"/></l><r>Franca Gujano<s n="np"/></r></p></e>
 <e><p><l>френски<s n="adj"/></l><r>franca<s n="adj"/></r></p></e>
 <e><p><l>фреон<s n="n"/></l><r>freono<s n="n"/></r></p></e>
 <e><p><l>фритюрник<s n="n"/></l><r>fritilo<s n="n"/></r></p></e>
@@ -1374,11 +1374,11 @@
 <e><p><l>хипноза<s n="n"/></l><r>hipnoto<s n="n"/></r></p></e>
 <e><p><l>хипопотам<s n="n"/></l><r>hipopotamo<s n="n"/></r></p></e>
 <e><p><l>хип-хоп<s n="n"/></l><r>hiphopo<s n="n"/></r></p></e>
-<e><p><l>хирург<s n="n"/></l><r>hirurgiisto, hirurgo, kirurgii<s n="n"/></r></p></e>sto, kirurgo
+<e><p><l>хирург<s n="n"/></l><r>hirurgiisto, hirurgo, kirurgiisto, kirurgo<s n="n"/></r></p></e>
 <e><p><l>хирургически<s n="adj"/></l><r>hirurgia, kirurgia<s n="adj"/></r></p></e>
 <e><p><l>хирургия<s n="n"/></l><r>hirurgio, kirurgio<s n="n"/></r></p></e>
 <e><p><l>хищна птица<s n="n"/></l><r>rabobirdoj<s n="n"/></r></p></e>
-<e><p><l>хладилник<s n="n"/></l><r>fridujo, glaciujo, glacisranko, gl<s n="n"/></r></p></e>acitenejo
+<e><p><l>хладилник<s n="n"/></l><r>fridujo, glaciujo, glacisranko, glacitenejo<s n="n"/></r></p></e>
 <e><p><l>хлебар<s n="n"/></l><r>bakisto<s n="n"/></r></p></e>
 <e><p><l>хлебче<s n="n"/></l><r>bulko<s n="n"/></r></p></e>
 <e><p><l>хлорофил<s n="n"/></l><r>klorofilo<s n="n"/></r></p></e>
@@ -1452,7 +1452,7 @@
 <e><p><l>червеи<s n="n"/></l><r>vermoj<s n="n"/></r></p></e>
 <e><p><l>червей<s n="n"/></l><r>vermo<s n="n"/></r></p></e>
 <e><p><l>червен<s n="adj"/></l><r>ruga<s n="adj"/></r></p></e>
-<e><p><l>Червената шапчица<s n="np"/></l><r>Rugkufulineto
+<e><p><l>Червената шапчица<s n="np"/></l><r>Rugkufulineto<s n="np"/></r></p></e>
 <e><p><l>червено<s n="adj"/></l><r>rugo<s n="adj"/></r></p></e>
 <e><p><l>Червено море<s n="np"/></l><r>Ruga Maro<s n="np"/></r></p></e>
 <e><p><l>черво<s n="n"/></l><r>intesto<s n="n"/></r></p></e>
@@ -1481,7 +1481,7 @@
 <e><p><l>чиния<s n="n"/></l><r>telero<s n="n"/></r></p></e>
 <e><p><l>число на Макс<s n="n"/></l><r>maho<s n="n"/></r></p></e>
 <e><p><l>чист<s n="adj"/></l><r>pura<s n="adj"/></r></p></e>
-<e><p><l>чистя с прахосмукачка<s n="vblex"/></l><r>polvosuci
+<e><p><l>чистя с прахосмукачка<s n="vblex"/></l><r>polvosuci<s n="vblex"/></r></p></e>
 <e><p><l>чучероне<s n="n"/></l><r>gvidisto<s n="n"/></r></p></e>
 <e><p><l>чувла<s n="n"/></l><r>sako<s n="n"/></r></p></e>
 <e><p><l>чувам<s n="vblex"/></l><r>audi<s n="vblex"/></r></p></e>
@@ -1532,7 +1532,7 @@
 <e><p><l>щръклица<s n="n"/></l><r>sildo<s n="n"/></r></p></e>
 <e><p><l>щука<s n="n"/></l><r>tabano<s n="n"/></r></p></e>
 <e><p><l>щъркел<s n="n"/></l><r>ezoko<s n="n"/></r></p></e>
-<e><p><l>Югославия<s n="np"/></l><r>Jugoslavio,Jugoslavujo
+<e><p><l>Югославия<s n="np"/></l><r>Jugoslavio,Jugoslavujo<s n="np"/></r></p></e>
 <e><p><l>южен славей<s n="n"/></l><r>najtinalo<s n="n"/></r></p></e>
 <e><p><l>Южна Америка<s n="np"/></l><r>Sudameriko<s n="np"/></r></p></e>
 <e><p><l>юли<s n="n"/></l><r>julio<s n="n"/></r></p></e>
